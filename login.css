@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(155, 154, 226);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    text-align: center;
+    padding-top: 15px;
+}
+.profile{
+    width: 360px;
+    height: 500px;
+    margin: auto;
+    background-color: white;
+    border-radius: 3px;
+}
+form{
+    width: 300px;
+    margin-left: 20px;
+}
+form label{
+    display: flex;
+    margin-top: 20px;
+    font-size: 18px;
+}
+input[type="button"]{
+    width: 320px;
+    height: 35px;
+    margin-top: 20px;
+    border: none;
+    background-color: rgb(94, 221, 221);
+    color: rgb(10, 10, 10);
+    font-size: 20px;
+}
+p{
+    text-align: center;
+    padding-top: 20px;
+    font-size: 15px;
+}
+.para-2 a{
+    text-align: center;
+    color: rgb(7, 7, 7);
+    margin-top: -10px;
+}
